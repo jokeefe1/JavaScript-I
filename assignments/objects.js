@@ -104,7 +104,7 @@ const parent = {
             speak() {
                 return `Hi, my name is ${this.name}.`;
             }
-        }
+        } 
     }
 };
 

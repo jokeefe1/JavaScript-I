@@ -5,7 +5,7 @@ let myFunction = () => {};
 // let anotherFunction = function (param) {
 //   return param;
 // };
-let anotherFunction = param => {
+let anotherFunction = param => { 
     return param;
 };
 // let add = function (param1, param2) {
